@@ -1,0 +1,47 @@
+GeneSet,Pathway Name,Pathway Class,Pathway Subclass,Pathway Size,ENSG00000152022,DISP1,FGGY,NADK,POS,Responsive Core Genes
+hsa00052,Galactose metabolism,Metabolism, Carbohydrate metabolism,31.0,0.0,0.2903225806451613,0.22580645161290322,0.3870967741935484,0.9032258064516129,3
+hsa05150,Staphylococcus aureus infection,Human Diseases, Infectious disease: bacterial,56.0,0.0,0.25,0.23214285714285715,0.2857142857142857,0.7678571428571428,3
+hsa04380,Osteoclast differentiation,Organismal Systems, Development and regeneration,128.0,0.0,0.21875,0.203125,0.2265625,0.6484375,3
+hsa05152,Tuberculosis,Human Diseases, Infectious disease: bacterial,179.0,0.0,0.1564245810055866,0.1564245810055866,0.19553072625698323,0.5083798882681564,3
+hsa04145,Phagosome,Cellular Processes, Transport and catabolism,152.0,0.0,0.16447368421052633,0.13157894736842105,0.21052631578947367,0.506578947368421,3
+hsa04670,Leukocyte transendothelial migration,Organismal Systems, Immune system,112.0,0.0,0.15178571428571427,0.16071428571428573,0.1875,0.5,3
+hsa04210,Apoptosis,Cellular Processes, Cell growth and death,136.0,0.0,0.16911764705882354,0.1323529411764706,0.19852941176470587,0.5,3
+hsa05219,Bladder cancer,Human Diseases, Cancer: specific types,41.0,0.0,0.24390243902439024,0.21951219512195122,0.0,0.46341463414634143,2
+hsa05167,Kaposi sarcoma-associated herpesvirus infection,Human Diseases, Infectious disease: viral,186.0,0.0,0.13978494623655913,0.13440860215053763,0.16666666666666666,0.4408602150537634,3
+hsa03010,Ribosome,Genetic Information Processing, Translation,153.0,0.1503267973856209,0.0,0.24836601307189543,0.0,0.39869281045751637,2
+hsa04666,Fc gamma R-mediated phagocytosis,Organismal Systems, Immune system,91.0,0.0,0.15384615384615385,0.2087912087912088,0.0,0.3626373626373627,2
+hsa04062,Chemokine signaling pathway,Organismal Systems, Immune system,189.0,0.0,0.14814814814814814,0.15873015873015872,0.0,0.30687830687830686,2
+hsa00051,Fructose and mannose metabolism,Metabolism, Carbohydrate metabolism,33.0,0.0,0.0,0.0,0.30303030303030304,0.30303030303030304,1
+hsa00500,Starch and sucrose metabolism,Metabolism, Carbohydrate metabolism,36.0,0.0,0.2777777777777778,0.0,0.0,0.2777777777777778,1
+hsa05205,Proteoglycans in cancer,Human Diseases, Cancer: overview,201.0,0.0,0.14427860696517414,0.12935323383084577,0.0,0.2736318407960199,2
+hsa05169,Epstein-Barr virus infection,Human Diseases, Infectious disease: viral,201.0,0.0,0.12935323383084577,0.13930348258706468,0.0,0.26865671641791045,2
+hsa04142,Lysosome,Cellular Processes, Transport and catabolism,123.0,0.0,0.0,0.0,0.2682926829268293,0.2682926829268293,1
+hsa05165,Human papillomavirus infection,Human Diseases, Infectious disease: viral,339.0,0.0,0.0,0.10914454277286136,0.15339233038348082,0.26253687315634217,2
+hsa05020,Prion diseases,Human Diseases, Neurodegenerative disease,35.0,0.0,0.0,0.2571428571428571,0.0,0.2571428571428571,1
+hsa05163,Human cytomegalovirus infection,Human Diseases, Infectious disease: viral,225.0,0.0,0.12444444444444444,0.12,0.0,0.24444444444444444,2
+hsa04662,B cell receptor signaling pathway,Organismal Systems, Immune system,71.0,0.0,0.0,0.19718309859154928,0.0,0.19718309859154928,1
+hsa04512,ECM-receptor interaction,Environmental Information Processing, Signaling molecules and interaction,82.0,0.0,0.0,0.1951219512195122,0.0,0.1951219512195122,1
+hsa04140,Autophagy,Cellular Processes, Transport and catabolism,128.0,0.0,0.0,0.0,0.1875,0.1875,1
+hsa05230,Central carbon metabolism in cancer,Human Diseases, Cancer: overview,65.0,0.0,0.18461538461538463,0.0,0.0,0.18461538461538463,1
+hsa04910,Insulin signaling pathway,Organismal Systems, Endocrine system,137.0,0.0,0.0,0.0,0.18248175182481752,0.18248175182481752,1
+hsa04610,Complement and coagulation cascades,Organismal Systems, Immune system,79.0,0.0,0.17721518987341772,0.0,0.0,0.17721518987341772,1
+hsa05140,Leishmaniasis,Human Diseases, Infectious disease: parasitic,74.0,0.0,0.17567567567567569,0.0,0.0,0.17567567567567569,1
+hsa05133,Pertussis,Human Diseases, Infectious disease: bacterial,76.0,0.0,0.17105263157894737,0.0,0.0,0.17105263157894737,1
+hsa04510,Focal adhesion,Cellular Processes, Cellular community - eukaryotes,199.0,0.0,0.0,0.1708542713567839,0.0,0.1708542713567839,1
+hsa04668,TNF signaling pathway,Environmental Information Processing, Signal transduction,110.0,0.0,0.16363636363636364,0.0,0.0,0.16363636363636364,1
+hsa04611,Platelet activation,Organismal Systems, Immune system,123.0,0.0,0.0,0.16260162601626016,0.0,0.16260162601626016,1
+hsa05100,Bacterial invasion of epithelial cells,Human Diseases, Infectious disease: bacterial,74.0,0.0,0.16216216216216217,0.0,0.0,0.16216216216216217,1
+hsa05162,Measles,Human Diseases, Infectious disease: viral,132.0,0.0,0.0,0.1590909090909091,0.0,0.1590909090909091,1
+hsa05146,Amoebiasis,Human Diseases, Infectious disease: parasitic,96.0,0.0,0.0,0.15625,0.0,0.15625,1
+hsa04640,Hematopoietic cell lineage,Organismal Systems, Immune system,97.0,0.0,0.15463917525773196,0.0,0.0,0.15463917525773196,1
+hsa04068,FoxO signaling pathway,Environmental Information Processing, Signal transduction,132.0,0.0,0.15151515151515152,0.0,0.0,0.15151515151515152,1
+hsa04657,IL-17 signaling pathway,Organismal Systems, Immune system,93.0,0.0,0.15053763440860216,0.0,0.0,0.15053763440860216,1
+hsa04064,NF-kappa B signaling pathway,Environmental Information Processing, Signal transduction,95.0,0.0,0.0,0.14736842105263157,0.0,0.14736842105263157,1
+hsa04926,Relaxin signaling pathway,Organismal Systems, Endocrine system,130.0,0.0,0.0,0.14615384615384616,0.0,0.14615384615384616,1
+hsa04110,Cell cycle,Cellular Processes, Cell growth and death,124.0,0.0,0.13709677419354838,0.0,0.0,0.13709677419354838,1
+hsa04630,JAK-STAT signaling pathway,Environmental Information Processing, Signal transduction,162.0,0.0,0.12962962962962962,0.0,0.0,0.12962962962962962,1
+hsa04151,PI3K-Akt signaling pathway,Environmental Information Processing, Signal transduction,354.0,0.0,0.12429378531073447,0.0,0.0,0.12429378531073447,1
+hsa05322,Systemic lupus erythematosus,Human Diseases, Immune disease,133.0,0.12030075187969924,0.0,0.0,0.0,0.12030075187969924,1
+hsa04060,Cytokine-cytokine receptor interaction,Environmental Information Processing, Signaling molecules and interaction,294.0,0.0,0.11904761904761904,0.0,0.0,0.11904761904761904,1
+hsa04810,Regulation of actin cytoskeleton,Cellular Processes, Cell motility,213.0,0.0,0.0,0.11737089201877934,0.0,0.11737089201877934,1
+hsa04010,MAPK signaling pathway,Environmental Information Processing, Signal transduction,295.0,0.0,0.0,0.10847457627118644,0.0,0.10847457627118644,1
