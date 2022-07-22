@@ -1,0 +1,47 @@
+,GeneSet,Pathway Name,description,Pathway Size,,DISP1,FGGY,NADK
+0,hsa00051,Metabolism,Fructose and mannose metabolism,33.0,,,,0.30303030303030304
+1,hsa00052,Metabolism,Galactose metabolism,31.0,,0.2903225806451613,0.22580645161290322,0.3870967741935484
+2,hsa00500,Metabolism,Starch and sucrose metabolism,36.0,,0.2777777777777778,,
+3,hsa03010,Genetic Information Processing,Ribosome,153.0,0.1503267973856209,,0.24836601307189543,
+4,hsa04010,Environmental Information Processing,MAPK signaling pathway,295.0,,,0.10847457627118644,
+5,hsa04060,Environmental Information Processing,Cytokine-cytokine receptor interaction,294.0,,0.11904761904761904,,
+6,hsa04062,Organismal Systems,Chemokine signaling pathway,189.0,,0.14814814814814814,0.15873015873015872,
+7,hsa04064,Environmental Information Processing,NF-kappa B signaling pathway,95.0,,,0.14736842105263157,
+8,hsa04068,Environmental Information Processing,FoxO signaling pathway,132.0,,0.15151515151515152,,
+9,hsa04110,Cellular Processes,Cell cycle,124.0,,0.13709677419354838,,
+10,hsa04140,Cellular Processes,Autophagy,128.0,,,,0.1875
+11,hsa04142,Cellular Processes,Lysosome,123.0,,,,0.2682926829268293
+12,hsa04145,Cellular Processes,Phagosome,152.0,,0.16447368421052633,0.13157894736842105,0.21052631578947367
+13,hsa04151,Environmental Information Processing,PI3K-Akt signaling pathway,354.0,,0.12429378531073447,,
+14,hsa04210,Cellular Processes,Apoptosis,136.0,,0.16911764705882354,0.1323529411764706,0.19852941176470587
+15,hsa04380,Organismal Systems,Osteoclast differentiation,128.0,,0.21875,0.203125,0.2265625
+16,hsa04510,Cellular Processes,Focal adhesion,199.0,,,0.1708542713567839,
+17,hsa04512,Environmental Information Processing,ECM-receptor interaction,82.0,,,0.1951219512195122,
+18,hsa04610,Organismal Systems,Complement and coagulation cascades,79.0,,0.17721518987341772,,
+19,hsa04611,Organismal Systems,Platelet activation,123.0,,,0.16260162601626016,
+20,hsa04630,Environmental Information Processing,JAK-STAT signaling pathway,162.0,,0.12962962962962962,,
+21,hsa04640,Organismal Systems,Hematopoietic cell lineage,97.0,,0.15463917525773196,,
+22,hsa04657,Organismal Systems,IL-17 signaling pathway,93.0,,0.15053763440860216,,
+23,hsa04662,Organismal Systems,B cell receptor signaling pathway,71.0,,,0.19718309859154928,
+24,hsa04666,Organismal Systems,Fc gamma R-mediated phagocytosis,91.0,,0.15384615384615385,0.2087912087912088,
+25,hsa04668,Environmental Information Processing,TNF signaling pathway,110.0,,0.16363636363636364,,
+26,hsa04670,Organismal Systems,Leukocyte transendothelial migration,112.0,,0.15178571428571427,0.16071428571428573,0.1875
+27,hsa04810,Cellular Processes,Regulation of actin cytoskeleton,213.0,,,0.11737089201877934,
+28,hsa04910,Organismal Systems,Insulin signaling pathway,137.0,,,,0.18248175182481752
+29,hsa04926,Organismal Systems,Relaxin signaling pathway,130.0,,,0.14615384615384616,
+30,hsa05020,Human Diseases,Prion diseases,35.0,,,0.2571428571428571,
+31,hsa05100,Human Diseases,Bacterial invasion of epithelial cells,74.0,,0.16216216216216217,,
+32,hsa05133,Human Diseases,Pertussis,76.0,,0.17105263157894737,,
+33,hsa05140,Human Diseases,Leishmaniasis,74.0,,0.17567567567567569,,
+34,hsa05146,Human Diseases,Amoebiasis,96.0,,,0.15625,
+35,hsa05150,Human Diseases,Staphylococcus aureus infection,56.0,,0.25,0.23214285714285715,0.2857142857142857
+36,hsa05152,Human Diseases,Tuberculosis,179.0,,0.1564245810055866,0.1564245810055866,0.19553072625698323
+37,hsa05162,Human Diseases,Measles,132.0,,,0.1590909090909091,
+38,hsa05163,Human Diseases,Human cytomegalovirus infection,225.0,,0.12444444444444444,0.12,
+39,hsa05165,Human Diseases,Human papillomavirus infection,339.0,,,0.10914454277286136,0.15339233038348082
+40,hsa05167,Human Diseases,Kaposi sarcoma-associated herpesvirus infection,186.0,,0.13978494623655913,0.13440860215053763,0.16666666666666666
+41,hsa05169,Human Diseases,Epstein-Barr virus infection,201.0,,0.12935323383084577,0.13930348258706468,
+42,hsa05205,Human Diseases,Proteoglycans in cancer,201.0,,0.14427860696517414,0.12935323383084577,
+43,hsa05219,Human Diseases,Bladder cancer,41.0,,0.24390243902439024,0.21951219512195122,
+44,hsa05230,Human Diseases,Central carbon metabolism in cancer,65.0,,0.18461538461538463,,
+45,hsa05322,Human Diseases,Systemic lupus erythematosus,133.0,0.12030075187969924,,,
